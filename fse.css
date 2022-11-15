@@ -1,0 +1,28 @@
+h1{
+	font-family: cursive;
+	color: rosybrown;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px hotpink;
+}
+p{
+	text-indent: 25px;
+	
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+
+body{
+	background-color: floralwhite;
+}
+img{
+	border-style: solid;
+	border-color: black;
+	float: right;
+}
+small{
+	color: hotpink;
+
+}
